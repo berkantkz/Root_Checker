@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Root Denetleyici</string>
+    <string name="app_name_caps">ROOT DENETLEYİCİ</string>
+    <string name="notrootedmain">ROOT EDİLMEMİŞ</string>
+    <string name="rootedmain">ROOT EDİLMİŞ</string>
+    <string name="onceagainexit">Çıkmak için bir kez daha basın</string>
+    <string name="check">DENETLE</string>
+    <string name="howto">Nasıl root yapılır?</string>
+    <string name="about">Hakkında</string>
+    <string name="version">Sürüm :</string>
+    <string name="back">GERİ</string>
+    <string name="exit">ÇIKIŞ</string>
+    <string name="forsources">Kaynaklar için</string>
+    <string name="ok">TAMAM</string>
+    <string name="thanksto">Teşekkürler</string>
+    <string name="thankyou">Size de teşekkürler :)</string>
+    <string name="seesource">Uygulama kaynağını görüntüle</string>
+    <string name="ongithub">GitHub aracılığıyla</string>
+    <string name="soon">Yakında eklenecek...</string>
+    <string name="no">HAYIR</string>
+    <string name="yes">EVET</string>
+    <string name="howtodescribe">Root etmek, cihazınıza zarar verebilir. EVET butonuna bastığınızda dünyanın en büyük Android forumu olan XDA-Developers\'tan root etme önerilerine yönlendirileceksiniz.</string>
+</resources>

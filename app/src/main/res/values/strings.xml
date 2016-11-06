@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Root Checker</string>
+    <string name="app_name_caps">ROOT CHECKER</string>
+    <string name="notrootedmain">NOT ROOTED</string>
+    <string name="rootedmain">ROOTED</string>
+    <string name="onceagainexit">Tap once again to exit</string>
+    <string name="check">CHECK</string>
+    <string name="howto">How to root?</string>
+    <string name="about">About</string>
+    <string name="version">Version :</string>
+    <string name="back">BACK</string>
+    <string name="exit">EXIT</string>
+    <string name="forsources">For sources</string>
+    <string name="ok">OK</string>
+    <string name="thanksto">Thanks to</string>
+    <string name="thankyou">Thank you too for using my app :)</string>
+    <string name="seesource">See the source</string>
+    <string name="ongithub">On GitHub</string>
+    <string name="soon">I\'ll push soon</string>
+    <string name="no">NO</string>
+    <string name="yes">YES</string>
+    <string name="howtodescribe">Rooting your device may break your device. When you click on "YES" you\'ll see rooting suggestions on World\'s biggest Android forum XDA-Developer.</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<thanks bulletedList="true" xmlns:http="http://www.w3.org/1999/xhtml">
+
+    <title >
+        <titletext>[a href="http://stackoverflow.com/users/593709/adil-soomro"][b]Adil Soomro[/b][/a]: büyük denetle butonunu onun özelleştirilmiş butonuyla yaptım</titletext>
+        <titletext>[a href="http://www.journaldev.com/author/anupam"][b]Anupam Chugh[/b][/a]: bu kutucuğu oluşturmak için onun bazı kodlarını kullandım</titletext>
+        <titletext>[a href="https://github.com/gabrielemariotti"][b]Gabriele Mariottin[/b][/a]: bu kutucuk onun yazdığı kodlar ile açılmakta!</titletext>
+        <titletext>[a href="http://stackoverflow.com/users/4527279/ehsan"][b]Ehsan[/b][/a]: onun [a href="http://stackoverflow.com/a/32612837/5142599"]bu[/a] yanıtı, Gabriele'nin yaptığı bu xml dosyasını düzenlerken çok yardımcı oldu.</titletext>
+        <titletext>[a href="http://stackoverflow.com/users/1628280/zefnus"][b]Zefnus[/b][/a]: çıkmak için bir kez daha basın fonksiyonu için. [a href="http://stackoverflow.com/a/22332291/5142599"]Burada[/a] mükemmel bir şekilde anlatılmış ve olması gerektiği gibi çalışmakta.</titletext>
+        <titletext>[a href="http://stackoverflow.com/users/737636/stermi"][b]StErMi[/b][/a]: StErMi, bu uygulamanın ana fonksiyonu olan kodları yazdı/çıkarttı!Uygulamamı oluşturmak için onun [a href="http://stackoverflow.com/a/19289543/5142599"]bu[/a] yanıtını kullandım. Çok teşekkürler!</titletext>
+        <titletext>[a href="https://www.facebook.com/tugsahhhsj?fref=ufi"][b]Tuğşah İlhan[/b][/a]: bazı kodlamalarda yardımda bulunduğu için :)</titletext>
+    </title>
+
+</thanks>

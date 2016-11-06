@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<thanks bulletedList="true" xmlns:http="http://www.w3.org/1999/xhtml">
+
+    <title >
+        <titletext>[a href="http://stackoverflow.com/users/593709/adil-soomro"][b]Adil Soomro[/b][/a]: made big check button with his custom circle button</titletext>
+        <titletext>[a href="http://www.journaldev.com/author/anupam"][b]Anupam Chugh[/b][/a]: took some codes to create this box you see currently</titletext>
+        <titletext>[a href="https://github.com/gabrielemariotti"][b]Gabriele Mariottin[/b][/a]: this box opens up by help of his codes!</titletext>
+        <titletext>[a href="http://stackoverflow.com/users/4527279/ehsan"][b]Ehsan[/b][/a]: his [a href="http://stackoverflow.com/a/32612837/5142599"]this[/a] post helped me a lot to to edit this xml file which is made by Gabriele.</titletext>
+        <titletext>[a href="http://stackoverflow.com/users/1628280/zefnus"][b]Zefnus[/b][/a]: for hit back button in order to exit function. Described perfectly [a href="http://stackoverflow.com/a/22332291/5142599"]here[/a] and works as well.</titletext>
+        <titletext>[a href="http://stackoverflow.com/users/737636/stermi"][b]StErMi[/b][/a]: he's coded/wrapped the main function of this app! I used his [a href="http://stackoverflow.com/a/19289543/5142599"]this[/a] post to create this app. Thanks a lot!</titletext>
+        <titletext>[a href="https://www.facebook.com/tugsahhhsj?fref=ufi"][b]Tuğşah İlhan[/b][/a]: for his legendary coding and help to me!</titletext>
+    </title>
+
+</thanks>

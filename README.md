@@ -1,5 +1,13 @@
-# Root_Checker
+# Root Checker
 Simple Root Checker that can run over Android 3.0+
+
+
+<p align="center">
+  <img src="https://img.xda-cdn.com/jteOC1g5ZWKUZsvnGf0CY951X8g=/http%3A%2F%2Fi.hizliresim.com%2FnEL57a.png" alt="Root Checker"/>
+</p>
+
+#### Required before building
+- You need to sync [changeloglib](https://github.com/gabrielemariotti/changeloglib) which is made by *@gabrieemariotti*. 
 
 ## License
 	Copyright 2016 Berkant Korkmaz
